@@ -22,7 +22,7 @@ function App() {
         <br/>
         <p>and become a super Ninja developer.</p>
         <br/>
-        <button>Awesome</button>
+        <button className="boton">Awesome</button>
         <br/>
       </header>
       <div class="segundaParte">
